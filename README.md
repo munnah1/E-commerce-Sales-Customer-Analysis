@@ -201,8 +201,14 @@ This project also helped me become more comfortable with CTEs, window functions,
 
 ###### **Busines Recommendations**
 • Inventory Planning: Electronics generated he highest revenue, the business should pay attention to the availability of the inventory and demand forecasting for this category.
+
+
 • Customer retention: The customer loyalty segmentation should be used to develop appropriate retention strategies for different customer groups.
+
+
 • Delivery experience: Factors hat affects customer ratings should be investigated and opportunities to improve delivery satisfactions should be identified.
+
+
 • Payment strategy: Operational costs and the risks associated with Cash on Delivery should be evaluated, given its revenue contribution.
 
 
@@ -223,8 +229,11 @@ The repository contains:
 ###### **What's Next**
 
 • Extend the analysis using Excel for data cleaning, exploration and visualisation
+
 • Use Power BI to develop interactive dashboards and communicate key findings.
+
 • Explore Python for more advanced data analysis and automation.
+
 • Develop business recommendations based on findings from the analysis
 This will allow me to take the project from SQL analysis to data visualization and reporting.
 
