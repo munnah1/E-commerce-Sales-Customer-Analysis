@@ -13,10 +13,7 @@ I chose this project because I wanted to move beyond practicing SQL syntax and s
 ### Objective
 
 
-
 The main goal was to understand:
-
-
 
 • Sales performance over time
 
